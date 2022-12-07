@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="9" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-26T00:12:27 IST" name="Suite" finished-at="2022-10-26T00:12:50 IST" duration-ms="22947">
+    <groups>
+    </groups>
+    <test started-at="2022-10-26T00:12:27 IST" name="Test" finished-at="2022-10-26T00:12:50 IST" duration-ms="22947">
+      <class name="ds_algo_Test.arrayPageTest">
+        <test-method signature="arrayBtn()[pri:0, instance:ds_algo_Test.arrayPageTest@70ed52de]" started-at="2022-10-26T00:12:33 IST" name="arrayBtn" finished-at="2022-10-26T00:12:42 IST" duration-ms="9592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arrayBtn -->
+      </class> <!-- ds_algo_Test.arrayPageTest -->
+      <class name="ds_algo_Test.registerPageTest">
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:ds_algo_Test.registerPageTest@183ec003]" started-at="2022-10-26T00:12:21 IST" name="initializeDriver" finished-at="2022-10-26T00:12:27 IST" duration-ms="5342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="registerClick()[pri:1, instance:ds_algo_Test.registerPageTest@183ec003]" started-at="2022-10-26T00:12:27 IST" name="registerClick" finished-at="2022-10-26T00:12:28 IST" duration-ms="1367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerClick -->
+        <test-method signature="regPassMismatch()[pri:2, instance:ds_algo_Test.registerPageTest@183ec003]" started-at="2022-10-26T00:12:28 IST" name="regPassMismatch" finished-at="2022-10-26T00:12:29 IST" duration-ms="1069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regPassMismatch -->
+        <test-method signature="regPassEmpty()[pri:3, instance:ds_algo_Test.registerPageTest@183ec003]" started-at="2022-10-26T00:12:29 IST" name="regPassEmpty" finished-at="2022-10-26T00:12:30 IST" duration-ms="914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regPassEmpty -->
+      </class> <!-- ds_algo_Test.registerPageTest -->
+      <class name="ds_algo_Test.linkedListPageTest">
+        <test-method signature="LList()[pri:0, instance:ds_algo_Test.linkedListPageTest@496bc455]" started-at="2022-10-26T00:12:42 IST" name="LList" finished-at="2022-10-26T00:12:50 IST" duration-ms="7594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LList -->
+      </class> <!-- ds_algo_Test.linkedListPageTest -->
+      <class name="ds_algo_Test.datastructuresTest">
+        <test-method signature="dsButton()[pri:0, instance:ds_algo_Test.datastructuresTest@5ddeb7cb]" started-at="2022-10-26T00:12:30 IST" name="dsButton" finished-at="2022-10-26T00:12:33 IST" duration-ms="2216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dsButton -->
+      </class> <!-- ds_algo_Test.datastructuresTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
